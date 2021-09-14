@@ -9,7 +9,7 @@ HackerOne Clear enables your program to have access to an exclusive community of
 > **Note:** HackerOne Clear is available as an add-on. To opt-in to Clear, contact your account manager.
 
 To access your HackerOne Clear settings:
-1. Go to: **Program Settings > Program > Hacker Management > Clear**.
+1. Go to: **Program Settings > Program > Hacker Management > Advanced Vetting**.
 2. Click **View the full list of Clear finders that have been invited to your program** to see which invited finders are Clear verified. Clear verified finders will be marked with this icon:
 
 ![Clear icon](./images/advanced-vetting-2.png)
